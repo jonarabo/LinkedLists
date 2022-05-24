@@ -1,1 +1,2 @@
 # LinkedLists
+My program is one that incorporates the concept of linked lists through the use of the functions push() and pop() and pointers which ensures that inserting and deleting numbers from the “Staque” is possible. Within my Staque.h file, I create a class that contains the data members and functions that I will be defining in Staque.cpp. In Staque.cpp, I defined each function to complete the required task of pushing even numbers in the front of the Staque and pushing odd numbers to the back of the Staque
